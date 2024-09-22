@@ -1,3 +1,3 @@
 # apanacollege-demo
 ist good repo
-Author - Rushikesh amale
+Author - Rushikesh amale.
